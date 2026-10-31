@@ -1,0 +1,10 @@
+{
+  "name": "Your Teacher AI",
+  "short_name": "Teacher AI",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff8fc",
+  "theme_color": "#e85d9e",
+  "description": "Your personal AI study companion, created by Shahab Millizai.",
+  "icons": []
+}
